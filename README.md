@@ -1,0 +1,2 @@
+# bertholdt
+Discord bot
